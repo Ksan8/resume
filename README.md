@@ -1,6 +1,3 @@
 ## Resume for Kezia Wineberg
-**NOTE:** 
-* the .docx version is ATS-readable
-* the PDF version is more aesthetically-pleasing, but will not necessarily pass well through an ATS
+ATS-readable .docx resume. It's not pretty, but it will pass the system.
 
-Choose wisely.
